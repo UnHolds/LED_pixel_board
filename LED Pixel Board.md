@@ -22,3 +22,5 @@ Scan Line = 8 * 4 = 32
 
 ## Chips maybe 
 * STM32WB
+
+Closing the S1 switch against Ground rotates the image.
